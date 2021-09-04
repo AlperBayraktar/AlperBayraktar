@@ -1,9 +1,15 @@
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=cascadia+code&color=38F736&width=500&lines=Alper+Bayraktar+from+Turkey." />
+  <h1>Alper Bayraktar </h1>
+  <h2>Hi! I'm Alper Bayraktar from Turkey.</h2>
 </div>
+<br />
 
-<center>
+- I know Python well, i made projects using TKinter, PyQT, SQLite, PyGame, Flask and Django.
+- I improved myself on front-end programming. I learned React.
+- Nowadays I'm learning C++. I'm interested in games, maybe i will make things with Arduino.
+- I joined FLL RePlay, i had 5 teammates.
+- I joined Kodluyoruz JR.'s Hackhathon with my teammate [Eren Ege](https://github.com/CipioMi) and we were second team that won the hackhathon. Some links about it:
 
-<img src="https://readme-typing-svg.herokuapp.com?font=cascadia+code&color=38F736&width=840&lines=I+joined+FLL+RePlay+Turkey+with+my+team+(I+had+5+teammates);I+know+Python+well%2C+i+also+improved+myself+on+front-end+programming;Nowadays+I'm+learning+c%2B%2B.;I+made+projects+using+TKinter%2C+SQLite3%2C+PyGame%2C+React.;I+joined+to+Kodluyoruz+JR.'s+Hackhathon.;me+and+my+teammate+Eren+Ege+were+the+second+team+that+won+the+Hackhathon!"/>
-
-</center>
+https://www.instagram.com/p/CSMs3OhjvKb
+<br/>
+https://github.com/AlperBayraktar/Pomodoro-DC-Bot
