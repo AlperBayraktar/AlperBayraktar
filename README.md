@@ -4,11 +4,13 @@
 </div>
 <br />
 
-- I know Python well, i made projects using TKinter, PyQT, SQLite, PyGame, Flask and Django.
-- I improved myself on front-end programming. I learned React.
-- Nowadays I'm learning C++. I'm interested in games, maybe i will make things with Arduino.
-- I joined FLL RePlay, i had 5 teammates.
-- I joined Kodluyoruz JR.'s Hackhathon with my teammate [Eren Ege](https://github.com/CipioMi) and we were second team that won the hackhathon. Some links about it:
+I haven't been coding since like 1 year now. I'll have an High School Entry Exam (LGS) on 5th June. Then I'll start programming again.
+
+- I know Python well, I made projects using TKinter, PyQT, SQLite, PyGame, Flask and Django.
+- I worked on React.
+- I'm interested in C++. I was working on a Chess project. You can check it out.
+- I joined FLL RePlay competition.
+- I joined Kodluyoruz JR. community's Hackhathon with my teammate [Eren Ege](https://github.com/CipioMi) and we became second. Some links about it:
 
 https://www.instagram.com/p/CSMs3OhjvKb
 <br/>
