@@ -4,7 +4,7 @@
 </div>
 <br />
 
-I haven't been coding since like 1 year now. I'll have an High School Entry Exam (LGS) on 5th June. Then I'll start programming again.
+I haven't been coding since like 1 year now. I had an High School Entry Exam (LGS) on 5th June. Then I started programming again. And I am currently working on React-Express-MySQL
 
 - I know Python well, I made projects using TKinter, PyQT, SQLite, PyGame, Flask and Django.
 - I worked on React.
