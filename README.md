@@ -1,15 +1,13 @@
-<div align="center">
-  <h1>Hi! I'm Alper Bayraktar from Turkey.</h1>
-</div>
-<br />
 
 ## 🚀 About Me ([My Website](https://alper-bayraktar.vercel.app/))
+ 
+🧠 I do full-stack web development, Python programming, competitive programming, attend tech competitions. I read and watch about everything I get interested in, which is almost everything in tech :)
 
-✏️ I am studying at [EFFL (Eskişehir Fatih Science High School)](https://fatihfenlisesi.meb.k12.tr).
+🕔 It's been about 5 years since I started coding.
 
-🕔 It's been about 4 years since I started coding.
+✏️ I like to write in Medium even though I can't get around to it.
 
-🧠 Currently I'm in two TEKNOFEST projects and I'm studying for Computer Science Category of [TÜBİTAK Science Olympiads](https://bilimolimpiyatlari.tubitak.gov.tr/en) for the second time.
+📖 I am studying at [EFFL (Eskişehir Fatih Science High School)](https://fatihfenlisesi.meb.k12.tr).
 
 ## 👩‍💻 Languages and Tools I Have Experienced:
 
@@ -21,8 +19,10 @@
 
 ## 🥇 Competitions
 
--   I joined the FLL RePlay competition.
--   I joined Kodluyoruz JR. community's Hackathon with my teammate Eren Ege and we became second.
+-   I became second with my team [Limosa in Tourism Technologies Competition of TEKNOFEST 2024](https://www.linkedin.com/posts/alper-bayraktar-1377a0280_teknofest2024-innovation-teamspirit-activity-7249425326898892800-iwY6?utm_source=share&utm_medium=member_desktop&rcm=ACoAAER1vrsBvZcz0Y2L1qQS-oZIrZDQr0_Dq9I).
+-   We are continuing with our same project in GençbizzTech entreprenurship competition.
+-   I joined the FLL RePlay competition back in secondary school.
+-   I joined Kodluyoruz JR. community's Hackathon back in secondary school with my teammate Eren Ege and we became second.
 
 ## 🔗 Links
 
@@ -48,10 +48,6 @@
 
 <a href="https://www.instagram.com/p/CSMs3OhjvKb">
 <img src="https://img.shields.io/badge/Kodluyoruz_JR_Competition-purple?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-<a href="https://github.com/AlperBayraktar/Pomodoro-DC-Bot">
-<img src="https://img.shields.io/badge/Pomodoro_DC_Bot-red?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
