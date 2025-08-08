@@ -12,9 +12,7 @@
 ## 👩‍💻 Languages and Tools I Have Experienced:
 
 <p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,express,git,github,nextjs,postgres,prisma,py,react,sqlite,supabase,ts,vscode,go&perline=9" />
-  </a>
 </p>
 
 ## 🥇 Competitions
