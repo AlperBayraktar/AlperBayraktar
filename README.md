@@ -5,7 +5,7 @@
 
 🕔 It's been about 6 years since I started coding.
 
-✏️ I like to write in my [Medium profile](https://medium.com/@alperbayraktar12) even though I can't get around to it.
+✏️ I like to write in my [Medium profile](https://medium.com/@alpr10s) even though I can't get around to it.
 
 📖 I am studying at [EFFL (Eskişehir Fatih Science High School)](https://fatihfenlisesi.meb.k12.tr). I'm a 12th grader.
 
@@ -17,7 +17,7 @@
 
 ## 🥇 Competitions
 
--   My team Limosa and I placed second [in Tourism Technologies Competition of TEKNOFEST 2024](https://www.linkedin.com/posts/alper-bayraktar-1377a0280_teknofest2024-innovation-teamspirit-activity-7249425326898892800-iwY6?utm_source=share&utm_medium=member_desktop&rcm=ACoAAER1vrsBvZcz0Y2L1qQS-oZIrZDQr0_Dq9I).
+-   My team Limosa and I placed second [in Tourism Technologies Competition of TEKNOFEST 2024](https://www.linkedin.com/posts/alpr10s_teknofest2024-innovation-teamspirit-activity-7249425326898892800-yAn8?utm_source=share&utm_medium=member_desktop&rcm=ACoAAER1vrsBvZcz0Y2L1qQS-oZIrZDQr0_Dq9I)
 -   We participated GençBizzTech 2025 Entreprenurship Competition and [we qualified for the final](https://www.instagram.com/p/DJjwy8lMcoPhDJvConp8EnUz5Yt_vHmq0OLl_00/?img_index=1).
 -   I've earned the Entrepreneurial Skills Pass (ESP) — an internationally recognized certificate by Junior Achievement (JA Worldwide), thanks to the valuable support from Genç Başarı Eğitim Vakfı.
 -   I joined the FLL RePlay competition back in secondary school.
@@ -35,7 +35,7 @@
 <img src="https://img.shields.io/badge/instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/alper-bayraktar-1377a0280/">
+<a href="https://www.linkedin.com/in/alpr10s/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
