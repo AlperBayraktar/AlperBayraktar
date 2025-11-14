@@ -1,5 +1,5 @@
 
-## 🚀 About Me ([My Website](https://alper-bayraktar.vercel.app/))
+## 🚀 About Me
  
 🧠 I do full-stack web development, Python programming, competitive programming, attend tech competitions, GUI development etc. I read and watch about everything that sparks my interest, which is almost everything in tech :)
 
