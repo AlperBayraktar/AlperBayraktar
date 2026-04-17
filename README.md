@@ -1,15 +1,19 @@
 
-## 🚀 About Me
+## Alper
  
-🧠 I do full-stack web development, Python programming, competitive programming, attend tech competitions, GUI development etc. I read and watch about everything that sparks my interest, which is almost everything in tech :)
+I do full-stack web development, Python programming, competitive programming, attend tech competitions, and so on.
 
-🕔 It's been about 6 years since I started coding.
+I read and watch about everything that sparks my interest, which is almost everything in tech.
 
-✏️ I like to write in my [Medium profile](https://medium.com/@alpr10s) even though I can't get around to it.
+Nowadays im into robotics and competitive programming.
 
-📖 I am studying at [EFFL (Eskişehir Fatih Science High School)](https://fatihfenlisesi.meb.k12.tr). I'm a 12th grader.
+It's been about 6 years since I started coding.
 
-## 👩‍💻 Languages and Tools I Have Experienced:
+I like to write in my [Medium profile](https://medium.com/@alpr10s) even though I can't get around to it.
+
+12th grader at [EFFL](https://fatihfenlisesi.meb.k12.tr).
+
+## Languages and Tools I Have Experienced:
 
 <p align="center">
     <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,express,git,github,nextjs,postgres,prisma,py,react,sqlite,supabase,ts,vscode,go&perline=9" />
@@ -26,10 +30,6 @@
 ## 🔗 Links
 
 <div align="center">
-
-<a href="https://alper-bayraktar.vercel.app/" >
-<img src="https://img.shields.io/badge/my_website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
-</a>
 
 <a href="https://www.instagram.com/alpr10s">
 <img src="https://img.shields.io/badge/instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" />
